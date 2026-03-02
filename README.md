@@ -135,13 +135,13 @@ You can update this section based on your exact formula.
 
 ## Repository Link
 
-[https://github.com/mrbi10/TWINSYNC](https://github.com/mrbi10/TWINSYNC)
+[https://github.com/mrbi10/TWINSYNC](https://github.com/smrithipiedy/TwinSync)
 
 ---
 
 ## Credits
 
-Built by the TwinSync team for VØID:v1 at VIT Chennai.
+Built by Team Hashtrix for VØID:v1 at VIT Chennai.
 Thanks to Devdock, Smartail, and HCLTech for supporting the event.
 
 ```
