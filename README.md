@@ -143,10 +143,3 @@ You can update this section based on your exact formula.
 
 Built by Team Hashtrix for VØID:v1 at VIT Chennai.
 Thanks to Devdock, Smartail, and HCLTech for supporting the event.
-
-```
-
----
-
-
-```
